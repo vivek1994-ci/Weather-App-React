@@ -33,7 +33,7 @@ getWetherDetails("delhi")
     <div className="col-md-12">
       <div className="wetherbg">
         <div className="borderRed">
-        <h1 className="heading">Wether App</h1>
+        <h1 className="heading">Weather App</h1>
         </div>
         <div className="d-grid gap-3 col-4 mt-4">
         <input type="text" className="form-control" value={inputCity} onChange = {handleChangeInput} />
